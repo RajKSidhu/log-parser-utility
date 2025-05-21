@@ -1,4 +1,4 @@
-## Library project
+## Log Parser Utility Project
 Project name : log-parser-utility
 
 Java application illustrating the log parser Utility tool
